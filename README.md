@@ -1,6 +1,6 @@
 # Calculadora
-Um codigo simples de calculadora
-Esse codigo recebe uma string com uma expressão numérica simples e calcula o resultado.
+Um codigo simples de calculadora,
+esse codigo recebe uma string com uma expressão numérica simples e calcula o resultado.
 
 O input é uma string com uma expressao simples, e a saida é o resultado dessa expressao
 
