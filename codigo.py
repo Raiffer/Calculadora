@@ -1,4 +1,3 @@
-import time
 def organizer(exp):
     exp=exp.replace(" ","")
     array = []
